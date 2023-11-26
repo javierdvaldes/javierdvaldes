@@ -15,7 +15,7 @@
 
 <h1 align="center">
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/javier-valdes-96296225b/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -42,28 +42,22 @@
 </h1>
 
 <h1 align="center">
-<h3>🐍 My Contributions</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-<h2 align="left">⚡ Stats ⚡</h2>
+<h3 align="left">⚡ Stats</h3>
 <br>
-<div align=center>
+<div>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=javierdvaldes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=javierdvaldes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=javierdvaldes&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div>
+<br>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=javierdvaldes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+<br/>
+
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=javierdvaldes&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=javierdvaldes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-</h1>
-
-</p>        
-<!--- stats (end) -->
 
 [javierdvaldes](https://github.com/javierdvaldes)
+
