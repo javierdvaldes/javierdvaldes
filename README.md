@@ -36,7 +36,7 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git"/>
-    <img src="https://skillicons.dev/icons?i=python,postgresql"/><br>
+    <img src="https://skillicons.dev/icons?i=python,postgresql,bash,powershell"/><br>
 </div>
 <br/>
 </h1>
